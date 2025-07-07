@@ -4,3 +4,6 @@
 [submodule "i3-config"]
 	path = i3-config
 	url = https://github.com/rhysez/i3-config.git
+[submodule "wezterm-conf"]
+	path = wezterm-conf
+	url = https://github.com/rhysez/wezterm-conf
