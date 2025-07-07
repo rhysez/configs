@@ -1,0 +1,6 @@
+[submodule "lazyvim-config"]
+	path = lazyvim-config
+	url = https://github.com/rhysez/lazyvim-config.git
+[submodule "i3-config"]
+	path = i3-config
+	url = https://github.com/rhysez/i3-config.git
