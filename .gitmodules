@@ -7,3 +7,6 @@
 [submodule "wezterm-conf"]
 	path = wezterm-conf
 	url = https://github.com/rhysez/wezterm-conf
+[submodule "tmux-config"]
+	path = tmux-config
+	url = https://github.com/rhysez/tmux-config.git
