@@ -10,3 +10,6 @@
 [submodule "tmux-config"]
 	path = tmux-config
 	url = https://github.com/rhysez/tmux-config.git
+[submodule "kitty-config"]
+	path = kitty-config
+	url = git@github.com:rhysez/kitty-config.git
