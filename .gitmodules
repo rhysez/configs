@@ -13,3 +13,6 @@
 [submodule "kitty-config"]
 	path = kitty-config
 	url = git@github.com:rhysez/kitty-config.git
+[submodule "sway-config"]
+	path = sway-config
+	url = git@github.com:rhysez/sway-config.git
