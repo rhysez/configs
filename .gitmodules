@@ -13,3 +13,6 @@
 [submodule "sway-config"]
 	path = sway-config
 	url = git@github.com:rhysez/sway-config.git
+[submodule "waybar-config"]
+	path = waybar-config
+	url = git@github.com:rhysez/waybar-config.git
